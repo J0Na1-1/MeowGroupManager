@@ -312,7 +312,7 @@ https://abc.com
 8. Bot 生成按钮并跳转配置的官方机器人，例如：
 
 ```text
-https://t.me/JonahMeow_bot?start=436EFD726202
+https://t.me/xxx_bot?start=436EFD726202
 ```
 
 9. 完成官方绑定；
